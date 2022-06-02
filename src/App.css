@@ -75,13 +75,12 @@ li {
 .footer-container {
   position: absolute;
   left: 160px;
-  bottom: 375px;
-  width: 50%;
+  bottom: 280px;
+  width: 30%;
   height: 2.5rem;
 }
 
 .footer-logos {
   display: flex;
   justify-content: space-between;
-  width: 50%;
 }
