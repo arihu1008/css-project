@@ -70,12 +70,31 @@ li {
   left: 750px;
 }
 
+
+/* Message */
+.Header {
+  font-size: 4.5rem;
+  width: 75%;
+}
+.Message {
+  color: hsl(0, 0%, 41%);
+  line-height: 1.8rem;
+  width: 70%;
+}
+
+#Learn-More {
+  padding: 1rem 1.5rem;
+  color: white;
+  background-color: black;
+  border-radius: 15px ;
+  width: 18%;
+}
 /* Footer */
 
 .footer-container {
   position: absolute;
   left: 160px;
-  bottom: 280px;
+  bottom: 340px;
   width: 30%;
   height: 2.5rem;
 }
